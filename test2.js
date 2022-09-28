@@ -1,3 +1,3 @@
 import { asd } from "./test";
 
-document.body.innerHTML = asd;
+document.getElementById("asd").innerHTML = "dsa";
