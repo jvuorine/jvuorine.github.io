@@ -1,4 +1,4 @@
-import { data } from "./data.js";
+import { data } from "./new_data.js";
 
 const map = new Map();
 map.set("organizer", "Järjestäjä");
