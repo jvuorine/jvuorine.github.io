@@ -1,3 +1,7 @@
 #tableDiv td{
     padding: 10px;
 }
+
+.title{
+    font-weight: bold;
+}
